@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 👋 Hi, I'm Maynor!
+
 👩🏻‍💻 systems engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Study to be a backend developer at alura Latam<br>💭 I'm currently learning about security in my applications and database!
 
 
