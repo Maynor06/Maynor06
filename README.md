@@ -17,9 +17,7 @@ Visit my website to see my projects and learn more about my work:
 ## 🚀 **Technologies and Tools I Use**  
 
 - **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)    
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 
 - **Frameworks and Libraries:**  
@@ -54,8 +52,6 @@ Visit my website to see my projects and learn more about my work:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maynor06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=Maynor&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maynor06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) [![](https://visitcount.itsvg.in/api?id=Maynor&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
