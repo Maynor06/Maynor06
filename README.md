@@ -1,57 +1,104 @@
-# 👋 Hi! I'm Maynor  
+<div align="center">
+  
 
-### 👨‍💻 **Full Stack Developer** | 🎓 **Systems Engineering Student**  
+### <div align="center">HI! 👋🏼 I'm Maynor, a full-stack developer and psychology aficionado 👨🏾‍💻</div>  
+  
 
-Welcome to my GitHub profile!  
-I’m a Full Stack Developer with **2 years of experience**, currently finishing my second year of **Systems Engineering** at university.  
-I’m passionate about technology, mathematics, and video games, always eager to learn and take on new challenges.  
+<div align="center"></div>  
+  
 
----
+<br/>  
 
-## 🌐 **Check Out My Portfolio**  
-Visit my website to see my projects and learn more about my work:  
-**[My Portfolio](https://portafoliomd.netlify.app/)**  
+<table><tr><td valign="top" width="50%">
 
----
+- 👨🏼‍🎓 I’m a **Computer Science** major  
+  
 
-## 🚀 **Technologies and Tools I Use**  
+- ❓ Ask me about anything related to **Web Development**  
+  
 
-- **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)    
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+- ❤️ I love **looking for solutions** from both technical and social perspectives  
 
-- **Frameworks and Libraries:**  
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
-  ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)  
 
-- **Databases:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+</td><td valign="top" width="50%">
 
-- **Development Tools:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+- 🧠 I’m currently studying **systems engineering**  
+  
 
----
+- 👯 I’m looking to collaborate on **challenging projects**   
+  
 
-## 🌐 **Connect With Me**  
+- 💭 I believe and practice constant **self-development**  
+  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_maynor_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maynor-semeya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MaynorDavid06) 
----
+- ⚡ Fun fact: I hate PHP   
 
-## 🎮 **A Bit More About Me**  
 
-👾 Besides programming, I’m a big fan of video games. Always happy to talk about tech and gaming strategies!  
-📚 I’m constantly learning and improving my skills to develop innovative and efficient solutions.  
+</td></tr></table>  
 
----
+<br/>  
 
-### ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maynor06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) [![](https://visitcount.itsvg.in/api?id=Maynor&icon=0&color=0)](https://visitcount.itsvg.in)
+## My Skill Set  
+<div valign="top" style="display: flex, justify-content: center">
+<div valign="top" width="50%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Frontend  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div><div valign="top" width="50%">
+
+### Backend  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+
+</div>
+</div>
+
+<div valign="top" style="display: flex, justify-content: center">
+<div valign="top" width="50%">
+
+### Other  
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+</div>
+
+<br/>  
+
+![]()  
+  
+
+![]()  
+  
+
+![]()  
+  
+
+<div align="center">
+<a href="https://www.linkedin.com/in/maynor-semeya/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br />
